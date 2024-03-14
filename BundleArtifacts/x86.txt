@@ -1,0 +1,2 @@
+MainPackage=C:\Users\meshm\source\repos\Age2minutes\Age2minutes\bin\x86\Release\Age2minutes_1.1.2.0_x86.msix
+SymbolPackage=C:\Users\meshm\source\repos\Age2minutes\Age2minutes\obj\x86\Release\Symbols\Age2minutes_1.1.2.0_x86.appxsym

@@ -1,0 +1,6 @@
+MainPackage=C:\Users\meshm\source\repos\Age2minutes\Age2minutes\bin\ARM\Release\Age2minutes_1.1.2.0_ARM.msix
+SymbolPackage=C:\Users\meshm\source\repos\Age2minutes\Age2minutes\obj\ARM\Release\Symbols\Age2minutes_1.1.2.0_ARM.appxsym
+ResourcePack=C:\Users\meshm\source\repos\Age2minutes\Age2minutes\bin\ARM\Release\Age2minutes_1.1.2.0_scale-100.msix
+ResourcePack=C:\Users\meshm\source\repos\Age2minutes\Age2minutes\bin\ARM\Release\Age2minutes_1.1.2.0_scale-125.msix
+ResourcePack=C:\Users\meshm\source\repos\Age2minutes\Age2minutes\bin\ARM\Release\Age2minutes_1.1.2.0_scale-150.msix
+ResourcePack=C:\Users\meshm\source\repos\Age2minutes\Age2minutes\bin\ARM\Release\Age2minutes_1.1.2.0_scale-400.msix
